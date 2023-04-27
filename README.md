@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MatinMollapur01
 - 👀 I’m interested in AI, Machine Learning, Android & IOS Development
 - 🌱 I’m currently learning Python
-
+- My social Media accounts are @matinmollapur on Twitter and Matinmollapur on Facebook and mtnmollapurt_offical on Instagram
