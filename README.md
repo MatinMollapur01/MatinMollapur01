@@ -18,4 +18,4 @@
 **My reddit account : -->** [mtnmollapur-official](https://www.reddit.com/user/Mtnmollapur_official)
 
 ## My stats are :
-[GitHub stats](https://github-readme-stats.vercel.app/api?MatinMollapur01=anuraghazra&show_icons=true&theme=radical)
+[![Stats : ](https://github-readme-stats.vercel.app/MatinMollapur01=anuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
