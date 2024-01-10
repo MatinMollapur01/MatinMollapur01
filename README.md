@@ -16,3 +16,6 @@
 **My Hashnode account : -->** [@matinmollapur](hashnode.com/@matinmollapur)
 **My daily.dev account : -->** [matinmollapur](app.daily.dev/matinmollapur)
 **My reddit account : -->** [mtnmollapur-official](https://www.reddit.com/user/Mtnmollapur_official)
+
+## My stats are :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MatinMollapur01=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
