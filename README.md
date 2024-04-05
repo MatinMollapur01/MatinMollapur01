@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/matinmollapur"><img src="https://api.daily.dev/devcards/v2/a6u6FrCSCppDBc7zD5guQ.png?r=mlx&type=default" width="356" alt="Matin Mollapur's Dev Card"/></a>
+<a href="https://app.daily.dev/matinmollapur"><img src="https://api.daily.dev/devcards/v2/a6u6FrCSCppDBc7zD5guQ.png?type=default&r=t3b" width="356" alt="Matin Mollapur's Dev Card"/></a>
 
 ## Hello friend 🥷
 
