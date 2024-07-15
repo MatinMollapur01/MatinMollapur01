@@ -1,8 +1,8 @@
 <a href="https://app.daily.dev/matinmollapur"><img src="https://api.daily.dev/devcards/v2/spNjMzmiENnUgudsxQDFz.png?type=default&r=43y" width="356" alt="Matin's Dev Card"/></a>
 
-## if you think that you are in the Matrix :
+## You can Chat with me Here : 
 
-- Neo can help you : [Neo 🧑‍💻 ](https://chat.openai.com/g/g-SE8pdxEJL-neo)
+- 👉 : [Matin Mollapur 🧑‍💻 ](https://chatgpt.com/g/g-xIyGjOt7l-matin-mollapur)
 
 ## Hello friend 🥷
 
