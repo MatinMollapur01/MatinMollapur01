@@ -10,7 +10,7 @@
 **AI 🧠, Machine learning 🔮, Operating Systems 📱, Software Development 👨‍💻, Web Development 🕸️, Cloud computing ☁️, Quantum computing 🦾, UI - UX 📲, LLMs 🤖**
 
 ## My skills are :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cloudflare,docker,dart,py,firebase,flutter,flask,django,git,github,gitlab,go,pytorch,tensorflow,linux,nodejs&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cloudflare,docker,dart,py,firebase,flutter,flask,django,git,github,gitlab,go,pytorch,tensorflow,linux,java,kotlin,nodejs&perline=5)](https://skillicons.dev)
 
 ## You can contact me from :
 **My twitter (X) account : -->** [@matinmollapur](https://twitter.com/matinmollapur)
