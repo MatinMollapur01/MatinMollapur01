@@ -1,12 +1,22 @@
 # 🚀 Matin Mollapur
 
-## Tech Enthusiast | Software Engineer | AI Researcher
+### Tech Enthusiast • Software Engineer • AI Researcher
 
-```
-"Innovation distinguishes between a leader and a follower." - Steve Jobs
-```
+<div align="center">
 
-### HF : https://huggingface.co/Matinmollapur01
+[![GitHub](https://img.shields.io/badge/GitHub-MatinMollapur01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatinMollapur01)
+[![X/Twitter](https://img.shields.io/badge/X/Twitter-@matin__mollapur-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/matin_mollapur)
+[![DEV.to](https://img.shields.io/badge/DEV.to-matinmollapur0101-0A0A0A?style=for-the-badge&logo=devto&logoColor=white)](https://dev.to/matinmollapur0101)
+
+</div>
+
+---
+
+### 💫 About Me
+
+Passionate about building accessible technology, exploring AI, and collaborating with the open-source community to build tools that make a real difference.
+
+> "Innovation distinguishes between a leader and a follower." — *Steve Jobs*
 
 ---
 
@@ -14,9 +24,9 @@
 
 <table>
   <tr>
-    <td align="center"><b>Artificial Intelligence</b></td>
-    <td align="center"><b>Software Development</b></td>
-    <td align="center"><b>Web Technologies</b></td>
+    <td align="center" width="33%"><b>🤖 Artificial Intelligence</b></td>
+    <td align="center" width="33%"><b>💻 Software Development</b></td>
+    <td align="center" width="33%"><b>🌐 Web Technologies</b></td>
   </tr>
   <tr>
     <td>
@@ -27,7 +37,7 @@
     </td>
     <td>
       • Full-Stack Development<br>
-      • Mobile App Development<br>
+      • Mobile App Development (Flutter)<br>
       • System Architecture<br>
       • Performance Optimization
     </td>
@@ -62,7 +72,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-#### DevOps & Cloud
+#### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -73,25 +83,27 @@
 
 ---
 
-### 🔭 Current Focus
+### 🛡️ Featured Open Source Projects
 
-- 🤖 Advancing the capabilities of Large Language Models
-- ☁️ Building scalable cloud-native applications
-- 🦾 Exploring the intersection of quantum computing and AI
-- 📱 Crafting intuitive and accessible user experiences
-- 🌐 Contributing to open-source software communities
+Here are some of my featured open-source repositories:
+
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **💡 OpenIdea** | A powerful, feature-rich, and open-source note-taking application designed for ultimate productivity. | Flutter / Dart | [Repo](https://github.com/MatinMollapur01/OpenIdea) |
+| **🧠 OpenMynd** | A powerful habit tracking and task management app designed to help you build positive habits and achieve your goals. | Flutter / Dart | [Repo](https://github.com/MatinMollapur01/OpenMynd) |
+| **🎵 OpenHarmoni** | A feature-rich application designed to enhance your productivity, focus, and relaxation experience. | Flutter / Dart | [Repo](https://github.com/MatinMollapur01/OpenHarmoni) |
+| **🔒 MasterHttpRelayVPN** | Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion. | Python | [Repo](https://github.com/MatinMollapur01/MasterHttpRelayVPN) |
+| **🌐 zyrln** | Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship. Includes Android VPN app + desktop proxy. | Go | [Repo](https://github.com/MatinMollapur01/zyrln) |
 
 ---
 
-### 📈 GitHub Stats
+### 🔭 Current Focus
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matinmollapur&show_icons=true&theme=tokyonight" alt="Matin's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matinmollapur&theme=tokyonight" alt="Matin's GitHub Streak" />
-</div>
+- 🤖 **LLMs & GenAI**: Advancing capabilities, fine-tuning, and optimizing Large Language Models.
+- ☁️ **Cloud-Native Design**: Building scalable, robust backend services and serverless infrastructures.
+- 🦾 **Next-Gen AI**: Exploring the intersection of quantum computing and artificial intelligence.
+- 📱 **Seamless UX**: Designing high-performance, accessible cross-platform mobile and web applications.
+- 🌐 **Open Source**: Actively contributing to the global developer community.
 
 ---
 
